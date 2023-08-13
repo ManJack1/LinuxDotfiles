@@ -1,0 +1,6 @@
+2023/08/13-14:29:26.682 17438 Reusing MANIFEST /home/manjack/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/08/13-14:29:26.682 17438 Recovering log #9
+2023/08/13-14:29:26.683 17438 Reusing old log /home/manjack/.config/discord/Local Storage/leveldb/000009.log 
+2023/08/13-14:56:53.800 17420 Level-0 table #13: started
+2023/08/13-14:56:53.820 17420 Level-0 table #13: 1827896 bytes OK
+2023/08/13-14:56:53.821 17420 Delete type=0 #9

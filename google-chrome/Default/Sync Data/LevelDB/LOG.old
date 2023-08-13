@@ -1,3 +1,24 @@
-2023/08/12-23:10:03.361 5f78 Reusing MANIFEST /home/manjack/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2023/08/12-23:10:03.362 5f78 Recovering log #172
-2023/08/12-23:10:03.362 5f78 Reusing old log /home/manjack/.config/google-chrome/Default/Sync Data/LevelDB/000172.log 
+2023/08/13-13:38:44.606 dfc4 Reusing MANIFEST /home/manjack/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/08/13-13:38:44.607 dfc4 Recovering log #172
+2023/08/13-13:38:44.608 dfc4 Reusing old log /home/manjack/.config/google-chrome/Default/Sync Data/LevelDB/000172.log 
+2023/08/13-13:52:26.231 dfb8 Level-0 table #176: started
+2023/08/13-13:52:26.236 dfb8 Level-0 table #176: 111619 bytes OK
+2023/08/13-13:52:26.237 dfb8 Delete type=0 #172
+2023/08/13-13:52:26.237 dfb8 Compacting 4@0 + 1@1 files
+2023/08/13-13:52:26.241 dfb8 Generated table #177@0: 228 keys, 45824 bytes
+2023/08/13-13:52:26.241 dfb8 Compacted 4@0 + 1@1 files => 45824 bytes
+2023/08/13-13:52:26.242 dfb8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/13-13:52:26.242 dfb8 Delete type=2 #170
+2023/08/13-13:52:26.242 dfb8 Delete type=2 #167
+2023/08/13-13:52:26.242 dfb8 Delete type=2 #176
+2023/08/13-13:52:26.242 dfb8 Delete type=2 #173
+2023/08/13-13:52:26.242 dfb8 Delete type=2 #164
+2023/08/13-14:06:49.365 dfb8 Level-0 table #179: started
+2023/08/13-14:06:49.378 dfb8 Level-0 table #179: 156856 bytes OK
+2023/08/13-14:06:49.379 dfb8 Delete type=0 #175
+2023/08/13-14:16:16.154 dfb8 Level-0 table #181: started
+2023/08/13-14:16:16.169 dfb8 Level-0 table #181: 112067 bytes OK
+2023/08/13-14:16:16.170 dfb8 Delete type=0 #178
+2023/08/13-14:40:39.758 dfc1 Level-0 table #183: started
+2023/08/13-14:40:39.761 dfc1 Level-0 table #183: 127084 bytes OK
+2023/08/13-14:40:39.762 dfc1 Delete type=0 #180
