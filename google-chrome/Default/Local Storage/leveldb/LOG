@@ -5,3 +5,6 @@
 2023/08/13-22:30:16.734 3 Recovering log #419
 2023/08/13-22:30:16.735 3 Reusing old log /home/manjack/.config/google-chrome/Default/Local Storage/leveldb/000419.log 
 2023/08/13-22:30:16.736 3 Delete type=0 #416
+2023/08/13-22:35:07.418 4 Level-0 table #421: started
+2023/08/13-22:35:07.431 4 Level-0 table #421: 14661 bytes OK
+2023/08/13-22:35:07.433 4 Delete type=0 #419
