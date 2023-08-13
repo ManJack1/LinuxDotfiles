@@ -1,0 +1,6 @@
+//@theme "/home/manjack/.local/share/rofi/themes/nord.rasi"
+
+configuration {
+    show-icons: true;
+  }
+@theme "/home/manjack/.local/share/rofi/themes/squared-nord.rasi"

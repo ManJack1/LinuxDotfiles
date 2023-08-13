@@ -1,0 +1,41 @@
+{
+   "author": "Gourav Goyal",
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.bundle.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "content.bundle.js" ],
+      "matches": [ "*://*.notion.so/*", "*://*.notion.site/*" ]
+   }, {
+      "js": [ "extPay.bundle.js" ],
+      "matches": [ "https://extensionpay.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'; connect-src https://extensionpay.com",
+   "description": "Boost Notion productivity with 20+ customizations like outline,small text full width for all,back to top button etc",
+   "homepage_url": "https://gourav.io/notion-boost",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkyiZZnXrgUACK7HSGxIye0RKjPgMaLwfWalUHolzt5eBDOfj0NceZbFz/7B4DvOh6Z58DIYBaY4McB04bQC9/HgGHsyJedBjnRIPkqAdewNVabJFR2wuHW96do6gH8o7h1gSC8rlfP6r0+yTDz0RbQSdnt/1JnNHWU69h6teVPcgK4c9sdoOYLpp1PLUW0xYmKM7nLG7IfxgzhohlRiRsh3O0TsF6Ur8LsxCPR/G/qeq01wT1H6kntbJKZu4n8zKT6UyqWFM+HwLtMl+7E57kL0orxUo+toDI4Cn3MwYeHxt/QFrfN7kax1KXP/jJ1/zpT+vqT+8V6YOy6KxAe3rHwIDAQAB",
+   "manifest_version": 2,
+   "name": "Notion Boost",
+   "offline_enabled": true,
+   "page_action": {
+      "default_icon": {
+         "16": "images/icon16.png",
+         "24": "images/icon24.png",
+         "32": "images/icon32.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Notion Boost"
+   },
+   "permissions": [ "declarativeContent", "storage" ],
+   "short_name": "Notion Boost",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.2.4",
+   "web_accessible_resources": [ "content.bundle.js" ]
+}

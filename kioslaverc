@@ -1,0 +1,5 @@
+[Proxy Settings]
+ProxyType=1
+ftpProxy=http://127.0.0.1 15732
+httpProxy=http://127.0.0.1 15732
+httpsProxy=http://127.0.0.1 15732

@@ -1,0 +1,4 @@
+2023-08-11 16:32:49.188 [info] Started initializing default profile extensions in extensions installation folder. file:///home/manjack/.vscode/extensions
+2023-08-11 16:32:49.454 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/manjack/.vscode/extensions Unable to create file 'vscode-userdata:/home/manjack/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-08-11 16:32:49.454 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/manjack/.vscode/extensions
+2023-08-11 16:32:52.230 [info] [perf] Render performance baseline is 148ms

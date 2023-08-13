@@ -1,0 +1,237 @@
+INFO 8/11/2023, 4:34:57 PM  launch with argv [/usr/share/typora/Typora]
+INFO 8/11/2023, 4:34:57 PM  launchFromDiffVersion, pre version is undefined
+INFO 8/11/2023, 4:34:57 PM  start LM in devVersion=false
+INFO 8/11/2023, 4:34:57 PM  [Raven] instanceKey = 5ea91a80-774d-470c-b53f-5b8d5e8fff7c
+INFO 8/11/2023, 4:34:57 PM  [watch L]
+INFO 8/11/2023, 4:34:57 PM  ls put SLicense
+INFO 8/11/2023, 4:34:57 PM  [L] Read from incorrupted InstallDate
+INFO 8/11/2023, 4:34:57 PM  writeInstallDate fromBTime=true
+INFO 8/11/2023, 4:34:57 PM  overwriteThemeFolder
+INFO 8/11/2023, 4:34:57 PM  ------------------start------------------
+INFO 8/11/2023, 4:34:57 PM  typora version: 1.6.6
+INFO 8/11/2023, 4:34:57 PM  undefined
+INFO 8/11/2023, 4:34:57 PM  ls put IDate
+INFO 8/11/2023, 4:34:57 PM  [L] installDate is 8/11/2023, trail remains: 15 days
+INFO 8/11/2023, 4:34:57 PM  [watch L] hasL: false
+INFO 8/11/2023, 4:34:57 PM  [focus] 1
+INFO 8/11/2023, 4:34:57 PM  [Raven] userId = 5c941aa5-4212-4469-803a-f2a340199c15
+INFO 8/11/2023, 4:34:57 PM  synced recovery
+user-dict.json not found
+INFO 8/11/2023, 4:34:57 PM  handle document.loadData
+INFO 8/11/2023, 4:34:57 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 8/11/2023, 4:34:57 PM  [RenderProcess 1][Log] reset NodeMap
+INFO 8/11/2023, 4:34:57 PM  synced recovery
+INFO 8/11/2023, 4:34:57 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 8/11/2023, 4:34:57 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 8/11/2023, 4:35:03 PM  [blur] 1
+INFO 8/11/2023, 4:35:03 PM  [win] blur
+INFO 8/11/2023, 4:35:03 PM  [focus] 2
+INFO 8/11/2023, 4:35:16 PM  [blur] 2
+INFO 8/11/2023, 4:35:16 PM  [focus] 2
+INFO 8/11/2023, 4:35:17 PM  [focus] 1
+INFO 8/11/2023, 4:35:18 PM  synced recovery
+INFO 8/11/2023, 4:35:18 PM  ----------------before-quit-----------------
+INFO 8/11/2023, 4:35:18 PM  ------------------will-quit------------------
+INFO 8/11/2023, 4:35:18 PM  -----------------quit------------------
+INFO 8/11/2023, 4:35:18 PM  closeLogging
+INFO 8/11/2023, 4:35:23 PM  launch with argv [/usr/share/typora/Typora]
+INFO 8/11/2023, 4:35:23 PM  start LM in devVersion=false
+INFO 8/11/2023, 4:35:23 PM  [Raven] instanceKey = 60127491-d2a8-4818-9b70-edee8d1c1c3d
+INFO 8/11/2023, 4:35:23 PM  [watch L]
+INFO 8/11/2023, 4:35:23 PM  ls put SLicense
+INFO 8/11/2023, 4:35:23 PM  [L] installDate is 8/11/2023, trail remains: 15 days
+INFO 8/11/2023, 4:35:23 PM  [watch L] hasL: false
+INFO 8/11/2023, 4:35:23 PM  ------------------start------------------
+INFO 8/11/2023, 4:35:23 PM  typora version: 1.6.6
+INFO 8/11/2023, 4:35:23 PM  undefined
+user-dict.json not found
+INFO 8/11/2023, 4:35:23 PM  [Raven] userId = 5c941aa5-4212-4469-803a-f2a340199c15
+INFO 8/11/2023, 4:35:23 PM  [focus] 2
+INFO 8/11/2023, 4:35:23 PM  synced recovery
+INFO 8/11/2023, 4:35:23 PM  [blur] 2
+INFO 8/11/2023, 4:35:23 PM  [win] blur
+INFO 8/11/2023, 4:35:23 PM  [focus] 1
+INFO 8/11/2023, 4:35:24 PM  handle document.loadData
+INFO 8/11/2023, 4:35:24 PM  [RenderProcess 2][Log] [UndoManager] reset commandStack
+INFO 8/11/2023, 4:35:24 PM  [RenderProcess 2][Log] reset NodeMap
+INFO 8/11/2023, 4:35:24 PM  synced recovery
+INFO 8/11/2023, 4:35:24 PM  [blur] 1
+INFO 8/11/2023, 4:35:24 PM  [focus] 2
+INFO 8/11/2023, 4:35:24 PM  [RenderProcess 2][Log] onBecomeActive
+INFO 8/11/2023, 4:35:24 PM  [RenderProcess 2][Log] File.activeWindow = true
+INFO 8/11/2023, 4:35:24 PM  [blur] 2
+INFO 8/11/2023, 4:35:24 PM  [win] blur
+INFO 8/11/2023, 4:35:24 PM  [focus] 1
+INFO 8/11/2023, 4:35:25 PM  [focus] 2
+INFO 8/11/2023, 4:35:27 PM  [blur] 2
+INFO 8/11/2023, 4:35:27 PM  [win] blur
+INFO 8/11/2023, 4:35:28 PM  [focus] 2
+INFO 8/11/2023, 4:35:28 PM  synced recovery
+INFO 8/11/2023, 4:35:28 PM  ----------------before-quit-----------------
+INFO 8/11/2023, 4:35:28 PM  ------------------will-quit------------------
+INFO 8/11/2023, 4:35:28 PM  -----------------quit------------------
+INFO 8/11/2023, 4:35:28 PM  closeLogging
+INFO 8/11/2023, 4:35:34 PM  launch with argv [/usr/share/typora/Typora]
+INFO 8/11/2023, 4:35:34 PM  start LM in devVersion=false
+INFO 8/11/2023, 4:35:34 PM  [Raven] instanceKey = 563ffd98-a951-47a0-a907-85d49b5f840d
+INFO 8/11/2023, 4:35:34 PM  [watch L]
+INFO 8/11/2023, 4:35:34 PM  ls put SLicense
+INFO 8/11/2023, 4:35:34 PM  [L] installDate is 8/11/2023, trail remains: 15 days
+INFO 8/11/2023, 4:35:34 PM  [watch L] hasL: false
+INFO 8/11/2023, 4:35:34 PM  ------------------start------------------
+INFO 8/11/2023, 4:35:34 PM  typora version: 1.6.6
+INFO 8/11/2023, 4:35:34 PM  undefined
+user-dict.json not found
+INFO 8/11/2023, 4:35:34 PM  [focus] 1
+INFO 8/11/2023, 4:35:34 PM  synced recovery
+INFO 8/11/2023, 4:35:34 PM  [Raven] userId = 5c941aa5-4212-4469-803a-f2a340199c15
+INFO 8/11/2023, 4:35:35 PM  handle document.loadData
+INFO 8/11/2023, 4:35:35 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 8/11/2023, 4:35:35 PM  [RenderProcess 1][Log] reset NodeMap
+INFO 8/11/2023, 4:35:35 PM  synced recovery
+INFO 8/11/2023, 4:35:35 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 8/11/2023, 4:35:35 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 8/11/2023, 4:35:35 PM  [blur] 1
+INFO 8/11/2023, 4:35:35 PM  [win] blur
+INFO 8/11/2023, 4:35:35 PM  [focus] 1
+INFO 8/11/2023, 4:35:40 PM  updateTheme
+INFO 8/11/2023, 4:35:42 PM  updateTheme
+INFO 8/11/2023, 4:35:43 PM  updateTheme
+INFO 8/11/2023, 4:35:44 PM  updateTheme
+INFO 8/11/2023, 4:35:47 PM  updateTheme
+INFO 8/11/2023, 4:35:48 PM  [blur] 1
+INFO 8/11/2023, 4:35:48 PM  [win] blur
+INFO 8/11/2023, 4:35:48 PM  [focus] 1
+INFO 8/11/2023, 4:35:51 PM  synced recovery
+INFO 8/11/2023, 4:35:52 PM  synced recovery
+INFO 8/11/2023, 4:35:56 PM  [blur] 1
+INFO 8/11/2023, 4:35:56 PM  [win] blur
+INFO 8/11/2023, 4:35:56 PM  [focus] 2
+INFO 8/11/2023, 4:35:58 PM  [blur] 2
+INFO 8/11/2023, 4:35:58 PM  [focus] 1
+INFO 8/11/2023, 4:35:58 PM  [blur] 1
+INFO 8/11/2023, 4:35:58 PM  [win] blur
+INFO 8/11/2023, 4:35:58 PM  [focus] 2
+INFO 8/11/2023, 4:36:02 PM  [blur] 2
+INFO 8/11/2023, 4:36:25 PM  [focus] 2
+INFO 8/11/2023, 4:36:25 PM  [blur] 2
+INFO 8/11/2023, 4:36:25 PM  [focus] 1
+INFO 8/11/2023, 4:36:25 PM  [blur] 1
+INFO 8/11/2023, 4:36:25 PM  [win] blur
+INFO 8/11/2023, 4:36:25 PM  [focus] 2
+INFO 8/11/2023, 4:36:26 PM  [blur] 2
+INFO 8/11/2023, 4:37:14 PM  [focus] 2
+INFO 8/11/2023, 4:38:17 PM  [blur] 2
+INFO 8/11/2023, 4:38:17 PM  [focus] 1
+INFO 8/11/2023, 4:38:19 PM  [blur] 1
+INFO 8/11/2023, 4:38:19 PM  [win] blur
+INFO 8/11/2023, 4:38:19 PM  [focus] 2
+INFO 8/11/2023, 4:38:19 PM  synced recovery
+INFO 8/11/2023, 4:38:19 PM  [blur] 2
+INFO 8/11/2023, 4:38:19 PM  [focus] 1
+INFO 8/11/2023, 4:38:19 PM  [blur] 1
+INFO 8/11/2023, 4:38:19 PM  [win] blur
+INFO 8/11/2023, 4:38:19 PM  [focus] 2
+INFO 8/11/2023, 4:38:19 PM  request https://store.typora.io/api/client/activate
+INFO 8/11/2023, 4:38:21 PM  [License] response code is 1
+INFO 8/11/2023, 4:38:21 PM  [blur] 2
+INFO 8/11/2023, 4:38:23 PM  [focus] 2
+INFO 8/11/2023, 4:38:23 PM  request https://store.typora.io/api/client/activate
+INFO 8/11/2023, 4:38:23 PM  [blur] 2
+INFO 8/11/2023, 4:38:23 PM  [focus] 2
+INFO 8/11/2023, 4:38:23 PM  [blur] 2
+INFO 8/11/2023, 4:38:23 PM  [focus] 2
+INFO 8/11/2023, 4:38:23 PM  [License] response code is 1
+INFO 8/11/2023, 4:38:23 PM  ls put SLicense
+INFO 8/11/2023, 4:38:29 PM  [focus] 1
+INFO 8/11/2023, 4:38:31 PM  synced recovery
+INFO 8/11/2023, 4:38:32 PM  [blur] 1
+INFO 8/11/2023, 4:38:32 PM  [win] blur
+INFO 8/11/2023, 4:38:32 PM  [focus] 1
+INFO 8/11/2023, 4:38:34 PM  synced recovery
+INFO 8/11/2023, 4:38:37 PM  [blur] 1
+INFO 8/11/2023, 4:38:37 PM  [win] blur
+INFO 8/11/2023, 4:38:38 PM  [focus] 1
+INFO 8/11/2023, 4:38:39 PM  [blur] 1
+INFO 8/11/2023, 4:38:39 PM  [win] blur
+INFO 8/11/2023, 4:38:40 PM  [focus] 1
+INFO 8/11/2023, 4:38:40 PM  [blur] 1
+INFO 8/11/2023, 4:38:40 PM  [win] blur
+INFO 8/11/2023, 4:38:40 PM  [focus] 1
+INFO 8/11/2023, 4:38:40 PM  [blur] 1
+INFO 8/11/2023, 4:38:40 PM  [win] blur
+INFO 8/11/2023, 4:38:40 PM  [focus] 1
+INFO 8/11/2023, 4:38:44 PM  [blur] 1
+INFO 8/11/2023, 4:38:44 PM  [win] blur
+INFO 8/11/2023, 4:38:46 PM  synced recovery
+INFO 8/11/2023, 4:38:46 PM  ----------------before-quit-----------------
+INFO 8/11/2023, 4:38:46 PM  [focus] 1
+INFO 8/11/2023, 4:38:47 PM  [blur] 1
+INFO 8/11/2023, 4:38:47 PM  [win] blur
+INFO 8/11/2023, 4:38:47 PM  [focus] 1
+INFO 8/11/2023, 4:38:50 PM  synced recovery
+INFO 8/11/2023, 4:38:50 PM  ----------------before-quit-----------------
+INFO 8/11/2023, 4:38:50 PM  ------------------will-quit------------------
+INFO 8/11/2023, 4:38:50 PM  -----------------quit------------------
+INFO 8/11/2023, 4:38:50 PM  closeLogging
+INFO 8/12/2023, 8:19:47 AM  launch with argv [/usr/share/typora/Typora]
+INFO 8/12/2023, 8:19:47 AM  start LM in devVersion=false
+INFO 8/12/2023, 8:19:47 AM  [Raven] instanceKey = 4119f548-54bb-41e5-9eb7-2c7bc8ae74d0
+INFO 8/12/2023, 8:19:47 AM  [watch L]
+INFO 8/12/2023, 8:19:47 AM  [L] installDate is 8/11/2023, trail remains: 14 days
+INFO 8/12/2023, 8:19:47 AM  [watch L] hasL: true
+INFO 8/12/2023, 8:19:47 AM  ------------------start------------------
+INFO 8/12/2023, 8:19:47 AM  typora version: 1.6.6
+INFO 8/12/2023, 8:19:47 AM  undefined
+INFO 8/12/2023, 8:19:47 AM  updateTheme
+user-dict.json not found
+INFO 8/12/2023, 8:19:48 AM  [Raven] userId = 5c941aa5-4212-4469-803a-f2a340199c15
+INFO 8/12/2023, 8:19:48 AM  [focus] 1
+INFO 8/12/2023, 8:19:48 AM  synced recovery
+INFO 8/12/2023, 8:19:48 AM  handle document.loadData
+INFO 8/12/2023, 8:19:48 AM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 8/12/2023, 8:19:48 AM  [RenderProcess 1][Log] reset NodeMap
+INFO 8/12/2023, 8:19:48 AM  synced recovery
+INFO 8/12/2023, 8:19:48 AM  [RenderProcess 1][Log] onBecomeActive
+INFO 8/12/2023, 8:19:48 AM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 8/12/2023, 8:19:48 AM  [blur] 1
+INFO 8/12/2023, 8:19:48 AM  [win] blur
+INFO 8/12/2023, 8:19:48 AM  [focus] 1
+INFO 8/12/2023, 8:19:49 AM  [blur] 1
+INFO 8/12/2023, 8:19:49 AM  [win] blur
+INFO 8/12/2023, 8:19:49 AM  ls put SLicense
+INFO 8/12/2023, 8:19:49 AM  [focus] 1
+INFO 8/12/2023, 8:19:50 AM  [blur] 1
+INFO 8/12/2023, 8:19:50 AM  [win] blur
+INFO 8/12/2023, 8:19:51 AM  [focus] 1
+INFO 8/12/2023, 8:19:53 AM  synced recovery
+INFO 8/12/2023, 8:19:53 AM  ----------------before-quit-----------------
+INFO 8/12/2023, 8:19:53 AM  ------------------will-quit------------------
+INFO 8/12/2023, 8:19:53 AM  -----------------quit------------------
+INFO 8/12/2023, 8:19:53 AM  closeLogging
+INFO 8/12/2023, 1:47:56 PM  launch with argv [/usr/share/typora/Typora]
+INFO 8/12/2023, 1:47:56 PM  start LM in devVersion=false
+INFO 8/12/2023, 1:47:56 PM  [Raven] instanceKey = 3916bddd-5979-4b2d-9110-5b4e8cb08633
+INFO 8/12/2023, 1:47:56 PM  [watch L]
+INFO 8/12/2023, 1:47:56 PM  [L] installDate is 8/11/2023, trail remains: 14 days
+INFO 8/12/2023, 1:47:56 PM  [watch L] hasL: true
+INFO 8/12/2023, 1:47:56 PM  ------------------start------------------
+INFO 8/12/2023, 1:47:56 PM  typora version: 1.6.6
+INFO 8/12/2023, 1:47:56 PM  undefined
+INFO 8/12/2023, 1:47:56 PM  updateTheme
+user-dict.json not found
+INFO 8/12/2023, 1:47:56 PM  [Raven] userId = 5c941aa5-4212-4469-803a-f2a340199c15
+INFO 8/12/2023, 1:47:56 PM  [focus] 1
+INFO 8/12/2023, 1:47:56 PM  synced recovery
+INFO 8/12/2023, 1:47:57 PM  handle document.loadData
+INFO 8/12/2023, 1:47:57 PM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 8/12/2023, 1:47:57 PM  [RenderProcess 1][Log] reset NodeMap
+INFO 8/12/2023, 1:47:57 PM  synced recovery
+INFO 8/12/2023, 1:47:57 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 8/12/2023, 1:47:57 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 8/12/2023, 1:47:57 PM  ls put SLicense
+INFO 8/12/2023, 1:48:03 PM  synced recovery
+INFO 8/12/2023, 1:48:03 PM  ----------------before-quit-----------------
+INFO 8/12/2023, 1:48:03 PM  ------------------will-quit------------------
+INFO 8/12/2023, 1:48:03 PM  -----------------quit------------------
+INFO 8/12/2023, 1:48:03 PM  closeLogging

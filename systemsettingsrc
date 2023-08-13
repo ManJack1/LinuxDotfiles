@@ -1,0 +1,14 @@
+[MainWindow]
+2 screens: Height=1315
+2 screens: Width=786
+2 screens: XPosition=4283
+2 screens: YPosition=74
+2560x1440 screen: Height=700
+2560x1440 screen: Width=1020
+2560x1440 screen: XPosition=1142
+2560x1440 screen: YPosition=404
+HDMI-1=HDMI-1
+HDMI-1 eDP-1=HDMI-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAxIAAAUjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

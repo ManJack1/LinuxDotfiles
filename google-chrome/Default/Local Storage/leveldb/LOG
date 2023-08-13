@@ -1,0 +1,42 @@
+2023/08/13-13:38:44.601 3 Reusing MANIFEST /home/manjack/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/13-13:38:44.602 3 Recovering log #388
+2023/08/13-13:38:44.603 3 Reusing old log /home/manjack/.config/google-chrome/Default/Local Storage/leveldb/000388.log 
+2023/08/13-13:38:52.980 5 Level-0 table #392: started
+2023/08/13-13:38:52.981 5 Level-0 table #392: 13193 bytes OK
+2023/08/13-13:38:52.983 5 Delete type=0 #388
+2023/08/13-13:39:45.156 5 Level-0 table #394: started
+2023/08/13-13:39:45.168 5 Level-0 table #394: 31361 bytes OK
+2023/08/13-13:39:45.169 5 Delete type=0 #391
+2023/08/13-13:50:07.428 5 Level-0 table #396: started
+2023/08/13-13:50:07.440 5 Level-0 table #396: 25889 bytes OK
+2023/08/13-13:50:07.441 5 Delete type=0 #393
+2023/08/13-13:50:07.441 5 Compacting 4@0 + 1@1 files
+2023/08/13-13:50:07.461 5 Generated table #397@0: 608 keys, 1492702 bytes
+2023/08/13-13:50:07.461 5 Compacted 4@0 + 1@1 files => 1492702 bytes
+2023/08/13-13:50:07.462 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/13-13:50:07.462 5 Delete type=2 #389
+2023/08/13-13:50:07.462 5 Delete type=2 #392
+2023/08/13-13:50:07.462 5 Delete type=2 #387
+2023/08/13-13:50:07.462 5 Delete type=2 #396
+2023/08/13-13:50:07.462 5 Delete type=2 #394
+2023/08/13-14:05:45.935 5 Level-0 table #399: started
+2023/08/13-14:05:45.948 5 Level-0 table #399: 48634 bytes OK
+2023/08/13-14:05:45.950 5 Delete type=0 #395
+2023/08/13-14:06:05.421 5 Level-0 table #401: started
+2023/08/13-14:06:05.422 5 Level-0 table #401: 24099 bytes OK
+2023/08/13-14:06:05.424 5 Delete type=0 #398
+2023/08/13-14:06:53.445 5 Level-0 table #403: started
+2023/08/13-14:06:53.447 5 Level-0 table #403: 37727 bytes OK
+2023/08/13-14:06:53.451 5 Delete type=0 #400
+2023/08/13-14:12:32.388 5 Level-0 table #405: started
+2023/08/13-14:12:32.401 5 Level-0 table #405: 25771 bytes OK
+2023/08/13-14:12:32.403 5 Delete type=0 #402
+2023/08/13-14:12:32.403 5 Compacting 4@0 + 1@1 files
+2023/08/13-14:12:32.422 5 Generated table #406@0: 610 keys, 1494122 bytes
+2023/08/13-14:12:32.422 5 Compacted 4@0 + 1@1 files => 1494122 bytes
+2023/08/13-14:12:32.423 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/13-14:12:32.424 5 Delete type=2 #403
+2023/08/13-14:12:32.424 5 Delete type=2 #405
+2023/08/13-14:12:32.424 5 Delete type=2 #397
+2023/08/13-14:12:32.424 5 Delete type=2 #401
+2023/08/13-14:12:32.424 5 Delete type=2 #399

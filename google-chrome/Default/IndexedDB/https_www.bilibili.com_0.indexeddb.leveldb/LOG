@@ -1,0 +1,15 @@
+2023/08/12-22:34:39.477 76d Reusing MANIFEST /home/manjack/.config/google-chrome/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/12-22:34:39.477 76d Recovering log #4
+2023/08/12-22:34:39.485 76d Reusing old log /home/manjack/.config/google-chrome/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/000004.log 
+2023/08/12-22:34:41.341 76e Level-0 table #8: started
+2023/08/12-22:34:41.357 76e Level-0 table #8: 3398556 bytes OK
+2023/08/12-22:34:41.358 76e Delete type=0 #4
+2023/08/12-22:35:22.025 76e Compacting 1@1 + 1@2 files
+2023/08/12-22:35:22.045 76e Generated table #9@1: 151 keys, 2119385 bytes
+2023/08/12-22:35:22.050 76e Generated table #10@1: 113 keys, 2128344 bytes
+2023/08/12-22:35:22.055 76e Generated table #11@1: 60 keys, 2123103 bytes
+2023/08/12-22:35:22.059 76e Generated table #12@1: 1541 keys, 503781 bytes
+2023/08/12-22:35:22.059 76e Compacted 1@1 + 1@2 files => 6874613 bytes
+2023/08/12-22:35:22.060 76e compacted to: files[ 0 0 4 0 0 0 0 ]
+2023/08/12-22:35:22.060 76e Delete type=2 #8
+2023/08/12-22:35:22.060 76e Delete type=2 #5

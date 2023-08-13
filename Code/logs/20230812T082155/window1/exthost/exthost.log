@@ -1,0 +1,15 @@
+2023-08-12 08:21:56.059 [info] Extension host with pid 23628 started
+2023-08-12 08:21:56.059 [info] Skipping acquiring lock for /home/manjack/.config/Code/User/workspaceStorage/445d72418c9bf5a0b196d5680f54f488.
+2023-08-12 08:21:56.222 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-12 08:21:56.228 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-12 08:21:56.249 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-12 08:21:56.443 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-12 08:21:56.531 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-12 08:21:56.550 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-12 08:21:56.596 [info] Eager extensions activated
+2023-08-12 08:21:56.611 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-12 08:21:56.613 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-12 08:21:57.062 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-08-12 08:21:57.146 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-08-12 08:22:01.702 [info] Extension host terminating: renderer closed the MessagePort
+2023-08-12 08:22:01.719 [info] Extension host with pid 23628 exiting with code 0

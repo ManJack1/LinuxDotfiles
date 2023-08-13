@@ -1,0 +1,21 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+2560x1440 screen: Window-Maximized=true
+2560x1440 screen: XPosition=1013
+2560x1440 screen: YPosition=545
+HDMI-1=HDMI-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAACgAAAAUpAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/drive-download-20230810T161548Z-001/desert-overlooking-sea.jpg
+Name1[$e]=desert-overlooking-sea.jpg
+
+[SideBar]
+InformationSplitterSizes=0,0

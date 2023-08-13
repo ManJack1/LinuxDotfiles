@@ -1,0 +1,13 @@
+2023/08/12-21:49:40.339 22ba5 Reusing MANIFEST /home/manjack/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/12-21:49:40.339 22ba5 Recovering log #6
+2023/08/12-21:49:40.339 22ba5 Reusing old log /home/manjack/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000006.log 
+2023/08/12-21:49:41.239 22ba5 Level-0 table #11: started
+2023/08/12-21:49:41.240 22ba5 Level-0 table #11: 711 bytes OK
+2023/08/12-21:49:41.241 22ba5 Delete type=0 #6
+2023/08/12-21:49:41.241 22ba1 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/12-21:50:08.279 22ba2 Compacting 1@1 + 1@2 files
+2023/08/12-21:50:08.290 22ba2 Generated table #12@1: 282 keys, 9309 bytes
+2023/08/12-21:50:08.290 22ba2 Compacted 1@1 + 1@2 files => 9309 bytes
+2023/08/12-21:50:08.291 22ba2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/08/12-21:50:08.291 22ba2 Delete type=2 #8
+2023/08/12-21:50:08.291 22ba2 Delete type=2 #11
